@@ -28,6 +28,14 @@ main {
   margin-right: 0;
 }
 
+.content-step {
+  position: absolute;
+  display: inline-block;
+  background-color: #ff9a4b;
+  color: white;
+  padding: 3px 0;
+}
+
 .content-item {
   padding: 10px;
 }
@@ -48,14 +56,6 @@ main {
 
 .img-3 {
   background-image: url(img/flow03.png);
-}
-
-.content-step {
-  position: absolute;
-  display: inline-block;
-  background-color: #ff9a4b;
-  color: white;
-  padding: 3px 0;
 }
 
 .title {
